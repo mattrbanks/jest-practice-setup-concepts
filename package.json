@@ -1,0 +1,15 @@
+{
+  "name": "jest-practice-setup-concepts",
+  "version": "1.0.0",
+  "description": "This repo was created to learn how to write tests with jest. It will be used as a reference for TDD of future web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
