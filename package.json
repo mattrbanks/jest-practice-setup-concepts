@@ -4,7 +4,8 @@
   "description": "This repo was created to learn how to write tests with jest. It will be used as a reference for TDD of future web applications.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
